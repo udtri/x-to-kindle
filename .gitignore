@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+config.json
+sample.b64
+*.b64
+.env
+samples/
+fixtures/
